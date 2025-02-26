@@ -1,1 +1,2 @@
-# modelo_regressao_simples
+# Modelo de regressão de preços de residência com Python. 
+# Fonte de dados: processo seletivo da empresa Indicium
